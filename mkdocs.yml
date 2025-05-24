@@ -1,10 +1,10 @@
-site_name: Kinnari's Site
-site_author: Kinnari
-site_url: https://kinnariyamamatanha.github.io
-site_description: Kinnari 的个人网站
-repo_url: https://github.com/KinnariyaMamaTanha/kinnariyamamatanha.github.io/
-repo_name: Kinnari's Site
-copyright: Copyright &copy; 2024 - Present <a href="https://github.com/KinnariyaMamaTanha/" target="_blank" rel="noopener">Kinnari</a>
+site_name: wali's Site
+site_author: Shuo Yang
+site_url: https://wali1024-offical.github.io
+site_description: wali 的个人网站
+repo_url: https://github.com/wali1024-offical/wali1024-offical.github.io/
+repo_name: wali1024-offical.github.io
+copyright: Copyright &copy; 2024 - Present <a href="https://github.com/wali1024-offical/" target="_blank" rel="noopener">Kinnari</a>
 
 theme:
   name: material

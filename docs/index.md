@@ -13,7 +13,7 @@ icon: material/home
 
 <h1 style="text-align: center;">
 <span style="font-size:50px;">
-Welcome to Kinnari's Site! 🎉
+Welcome to wali's Site! 🎉
 </span>
 </h1>
 
