@@ -1,143 +1,96 @@
 ---
-hide:
-  - navigation
-  - toc
-  - feedback
-nostatistics: true
+icon: fontawesome/solid/face-smile-wink
 ---
 
-# Jingyu Zhou(周靖宇) ![](img/avatar1.png){ align=right style="width:7.5em; margin-left: 7.5em; margin-top: 0.5em; border-radius: 1em;"}
+# Academic / Personal Profile 🎓
 
-<!--:fontawesome-solid-building: Office: [424, 60 5th Ave, New York, NY 10011](https://maps.app.goo.gl/N7m2fM5EbM3TToB79)-->
-
-:fontawesome-solid-inbox: Work Email: [jy_zhou [at] sjtu [dot] edu [dot] cn](mailto:jy_zhou@sjtu.edu.cn)
-
-:fontawesome-solid-inbox: Personal Email: [2823324228 [at] qq [dot] com](mailto:2823324228@qq.com)
-
-:material-file: CV: [Click Here](assets/cv.pdf)
-
-<span style=font-size:2em;">[:fontawesome-brands-github:](https://github.com/KinnariyaMamaTanha/) [:fontawesome-brands-x-twitter:](https://x.com/MamaTanha76294) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/Kinnariya)</span>
-
----
-
-## Bio
-
-I am a second-year undergraduate student majoring in Artificial Intelligence at the [SEIEE](https://english.seiee.sjtu.edu.cn/) of [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). You could find my previous experience [here](#experience). In addition, I am also an active participant in [Zhiyuan Honors Program](https://en.zhiyuan.sjtu.edu.cn/), which fosters academic excellence and innovation.
-
-> [!INFO] I am actively seeking internships in the field of LLM and MLSys. Please feel free to reach out to me if you have any opportunities available! 🥰🥰🥰
-
-
----
-
-## Research Interest
-
-- **Machine Learning Systems for Advancing AI and AGI**: I am committed to the development of robust and efficient *machine learning systems*, recognizing that the advancement of AI and AGI is fundamentally constrained by the capabilities of their underlying system infrastructures.
-- **Optimization in Large Model Training and Reasoning**: I also focus on improving the efficiency and practicality of large-scale model training and inference through advanced *algorithms*.
-
----
-
-## News
-
-
-=== "2024"
-
-    [12/2024] I became an intern in [IPADS](https://ipads.se.sjtu.edu.cn/), advised by Prof [Xingda Wei](https://ipads.se.sjtu.edu.cn/pub/members/xingda_wei).
-
-    [11/2024] :party_popper: I won the Merit Scholarship, B level, SJTU (**top 5%** in SJTU)
-
-    [11/2024] :party_popper: I won the Zhiyuan Honors Scholarship, SJTU (**top 5%** in Zhiyuan Honors Program)
-
-    [11/2024] :party_popper: I won the 2024 Shanghai Scholarship (**top 0.2%** in Shanghai)
-
-    [08/2024] I participated in the preparation of the [tutorial report 《基于离散编码的语音合成》](https://www.ncmmsc.org.cn/jcbg/) of [NCMMSC 2024](https://www.ncmmsc.org.cn/).
-
-    [03/2024] :party_popper: I won **the first prize** of [the 15th Chinese Mathematics Competitions](img/15th_national_math_competition.png) (CMC) and **the first prize** of [the 15th Shanghai Mathematics Competitions](img/15th_shanghai_math_competition.png)!
-
-    [02/2024] I became an intern in [X-LANCE](https://x-lance.github.io/), advised by Prof. [Kai Yu](https://x-lance.github.io/kaiyu/).
-
-=== "2023"
-
-    [12/2023] :party_popper: I won the 2023 Zhiyuan Honors Scholarship, SJTU (**top 5%** in ZHiyuan Honors Program).
-
-    [09/2023] I participate in the [Zhiyuan Honor Program](https://en.zhiyuan.sjtu.edu.cn/).
-
-    [09/2023] Excited to start my AI B.Eng. at [SJTU SEIEE](https://english.seiee.sjtu.edu.cn/).
-
----
-
-## Education
-
-### Zhiyuan Honor Program, Shanghai Jiao Tong University![Image title](img/sjtu.png){ align=right style="height:6em; border-radius: 0.5em;"}
-
-Sept. 2023 -- Present
-
-<br>
-
-### School of Electronic Information And Electrical Engineering, Shanghai Jiao Tong University![Image title](img/sjtu.png){ align=right style="height:6em; border-radius: 0.5em;"}
-
-Sept. 2023 -- Present
-
----
-
-## Publications & Manuscripts
-
-> Coming soon...
-
----
-
-## Experience
-
-<!-- **GAIR, SJTU & Qing Yuan Research Institute**![Image title](img/gair.png){ align=right style="height:5em; border-radius: 0.5em;"} -->
-<!---->
-<!-- Jan. 2025 - Present -->
-<!---->
-<!-- Research Intern -->
-
-**IPADS, SJTU**![Image title](img/ipads.png){ align=right style="height:5em; border-radius: 0.5em;"}
-
-Dec. 2024 - Apr. 2025
-
-Research Intern
-
-**X-LANCE, SJTU**![Image title](img/xlance.webp){ align=right style="height:5em; border-radius: 0.5em;"}
-
-Feb. 2024 – Sept. 2024
-
-Research Intern
-
----
-
-## Projects
-
-**[:fontawesome-brands-github: aiTour](https://aitour.icu) [![GitHub Repo stars](https://img.shields.io/github/stars/KinnariyaMamaTanha/aiTour)
-](https://github.com/KinnariyaMamaTanha/aiTour/stargazers)**
-
-An open-source GitHub page built for reference in self-learning of artificial intelligence. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
-
----
-
-## Media Exposures
-
-I write articles and share my thinkings on [Zhihu](https://www.zhihu.com/people/Kinnariya) regularly and have 600+ followers so far!
-
-## Honors
-
-- [Shanghai Scholarship](img/shjxj2024.jpg), 2024 (**top 0.2%** in Shanghai)
-- Zhiyuan Honors Scholarship, SJTU, 2024 (**top 5%** in Zhiyuan Honors Program)
-- Merit Scholarship, B level, SJTU, 2024 (**top 5%** in SJTU)
-- **First prize** of [the 15th Chinese Mathematics Competitions](img/15th_national_math_competition.png) and **first prize** of [the 15th Shanghai Mathematics Competitions](img/15th_shanghai_math_competition.png)
-- [Zhiyuan Honors Scholarship](img/zhiyuan_honor2023.png), SJTU, 2023 (**top 5%** in Zhiyuan Honors Program)
-
----
-
-??? tip "Some of My Friends"
-
-    Umass: [Haoyu Zhen](https://haoyuzhen.com/)
-
-    UC Berkeley: [Junyi Zhang](https://www.junyi42.com/)
-
-<div align="center">
-    <div align="center" style="width:20%">
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_1g20YoX1boCjXuxcNhGdbnRQiA2LG8IlLZwCYTAPUQ&cl=ffffff&w=a"></script>
+!!! note ""
+    <div align="center" style="font-size:28px;font-weight:bold">
+        杨朔&nbsp;/&nbsp;Yang&nbsp;Shuo
     </div>
+
+<!-- 如需头像，取消注释并替换路径 -->
+<!-- ![Avatar](../img/avatar1.png){ width="160" } -->
+
+=== "中文"
+
+    我热爱 **深度学习与机器人** 🤖，课余喜欢 **打乒乓球 🏓** 和 **游泳 🏊**。  
+    欢迎与我交流、合作！
+
+    **邮箱（常用）：** [yangs151630@gmail.com](mailto:yangs151630@gmail.com)  
+    **邮箱（校内）：** 2023030193@buct.edu.cn  
+    **GitHub：** <https://github.com/wali1024-offical>  
+    **X：** <https://x.com/an_nua15178>
+
+=== "English"
+
+    I am passionate about **deep learning and robotics** 🤖.  
+    In my spare time I enjoy **table tennis 🏓** and **swimming 🏊**.  
+    Always happy to connect or collaborate!
+
+    **Primary e-mail:** [yangs151630@gmail.com](mailto:yangs151630@gmail.com)  
+    **School e-mail (checked less often):** 2023030193@buct.edu.cn  
+    **GitHub:** <https://github.com/wali1024-offical>  
+    **X:** <https://x.com/an_nua15178>
+
+---
+
+## 教育背景 / Education
+
+| ![BUCT logo](../img/BUCT.svg){ width="90" } | **北京化工大学**  <br> 机械设计制造及其自动化（机器人方向） <br> *2023 – Present* |
+| --- | --- |
+
+---
+
+## Projects / 项目
+
+
+<!-- 将 ( ) 内替换为 GIF 图片实际路径或外链 -->
+
+=== "English"
+
+| Date | Project | Description | Demo GIF |
+|------|---------|-------------|----------|
+| May&nbsp;2025 | **VLA Model Reproduction** 🚀 | Re-implementing a Vision-Language-Action model (stay tuned) 🤖 | ![VLA GIF]( ) |
+| May&nbsp;2025 | **RoboCup China @Home – 1st Prize** 🥇 | Team won the First Prize in the RoboCup China @Home league 🏆 | ![RoboCup GIF]( ) |
+| May&nbsp;2025 | **PCBTool.ai** 🛠️ | Large-model + RAG powered platform that speeds up hardware design ⚡ | ![PCBTool GIF]( ) |
+| Jun&nbsp;2024 | **RAICOM Quadruped Track – 3rd Prize** 🐾 | Third Prize in the RAICOM quadruped-robot track (Beijing) 🎉 | ![RAICOM GIF]( ) |
+
+<!-- Replace ( ) with actual GIF paths or URLs -->
+
+
+---
+
+## Publications
+
+<div style="border:1px solid #e0e0e0;border-radius:12px;padding:1rem;display:flex;gap:1rem;flex-wrap:wrap">
+
+<!-- ====== Paper Card ====== -->
+<div style="flex:3 1 260px;min-width:260px">
+
+<h4 style="margin-top:0.3rem">
+DOF-Based Mechanism Design of RigFlex Parallel Robots
+<small>(IROS 2025 – under review)</small>
+</h4>
+
+Authors: Xiao Wang, Shuo Yang, Zihe Lei, Ke Wu†, Guohua Chen
+
+Abstract  
+This paper proposes a degree-of-freedom driven design methodology for the rigid-flexible coupled parallel robot RigFlex. Using a 3-RRR architecture as an example, three RigFlex prototypes are developed. Non-linear Euler-Bernoulli and Cosserat beam models are employed to evaluate workspace accuracy and compliance. Results show that the method achieves high stiffness while retaining desirable flexibility, providing a systematic framework for RigFlex mechanism design.
+
+Keywords: RigFlex Robot, Parallel Mechanism, Compliance, DOF Analysis
+
+<p align="right">
+<a href="ieeeconf.pdf" class="md-button">📄 Download PDF</a>
+</p>
 </div>
+
+<!-- 25 % width ⇒ ~1/8 area -->
+<iframe src="//player.bilibili.com/player.html?bvid=BV1pwRwYXECg&high_quality=1&autoplay=0"
+        scrolling="no" frameborder="0" allowfullscreen="true"
+        style="flex:1 1 160px;max-width:25%;aspect-ratio:16/9;border-radius:8px;"></iframe>
+
+</div>
+
+
+
